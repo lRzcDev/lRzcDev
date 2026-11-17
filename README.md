@@ -12,5 +12,3 @@
 <br>> Open source is essential.
 <br>> Code is life.
 
----
-
