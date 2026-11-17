@@ -8,7 +8,6 @@
 
 
 ---
-
 <br>> Privacy is paramount.
 <br>> Open source is essential.
 <br>> Code is life.
