@@ -12,3 +12,6 @@
 <br>> Open source is essential.
 <br>> Code is life.
 
+---
+Python, html, css, js, java
+git, cachy/arch, github, flask, neovim, vs-codium
