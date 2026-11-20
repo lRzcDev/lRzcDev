@@ -6,13 +6,14 @@
 <br>I love coding
 <br>
 </p>
-
-
 ---
+<p>
 > Privacy is paramount.
 <br>> Open source is essential.
 <br>> Code is life.
-
+</p>
 ---
+<p>
 Languages : Python, html, css, js, java
 <br>Tools : git, cachy/arch, github, flask, neovim, vs-codium, sometimes opencode
+</p>
