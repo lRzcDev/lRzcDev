@@ -14,5 +14,5 @@
 <br> Code is life.
 ---
 Languages : Python, html, css, js, java
-<br>Tools : git, cachy/arch, github, flask, neovim, vs-codium, sometimes opencode
+<br>Tools : git, cachy/arch, github, neovim, vs-codium, sometimes opencode
 
