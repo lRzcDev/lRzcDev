@@ -9,10 +9,10 @@
 
 
 ---
-<br>> Privacy is paramount.
+> Privacy is paramount.
 <br>> Open source is essential.
 <br>> Code is life.
 
 ---
-<br> Languages : Python, html, css, js, java
+Languages : Python, html, css, js, java
 <br>Tools : git, cachy/arch, github, flask, neovim, vs-codium, sometimes opencode
