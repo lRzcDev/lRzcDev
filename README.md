@@ -1,4 +1,5 @@
-<h1 align="center">lRzcDev</h1>
+<h1 align="center">𝚕𝚁𝚣𝚌𝙳𝚎𝚟</h1>
+
 
 <p align="center">
   <img src="./code.svg" width="380" alt="while bug; do echo i hate coding... done" />
