@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal-intro.svg" width="48%" align="top" alt="Hey, i'm lRzcDev, a CS student. Currently interested in Java programming." />
+  <img src="./terminal-profile.svg" width="48%" align="top" alt="Hey, i'm lRzcDev, a CS student. Currently interested in Java programming." />
   <img src="./terminal-code.svg" width="48%" align="top" alt="while bug; do echo i hate coding... done" />
 </p>
 
