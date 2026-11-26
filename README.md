@@ -1,9 +1,7 @@
-<table align="center">
-  <tr>
-    <td valign="top"><img src="./terminal-intro.svg" width="440" alt="Hey, i'm lRzcDev, a CS student. Currently interested in Java programming." /></td>
-    <td valign="top"><img src="./terminal-code.svg" width="440" alt="while bug; do echo i hate coding... done" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./terminal-intro.svg" width="48%" align="top" alt="Hey, i'm lRzcDev, a CS student. Currently interested in Java programming." />
+  <img src="./terminal-code.svg" width="48%" align="top" alt="while bug; do echo i hate coding... done" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Privacy-is%20paramount-8A2BE2?style=for-the-badge" />
