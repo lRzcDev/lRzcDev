@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td valign="top"><img src="./terminal-intro.svg" width="440" alt="Hey, i'm lRzcDev, a CS student. Currently interested in Java programming." /></td>
-    <td valign="top"><img src="./code.svg" width="440" alt="while bug; do echo i hate coding... done" /></td>
+    <td valign="top"><img src="./terminal-code.svg" width="440" alt="while bug; do echo i hate coding... done" /></td>
   </tr>
 </table>
 
